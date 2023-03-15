@@ -66,7 +66,7 @@ top level view using Quartus Prime Lite Edition
 
 
 
-![image](https://user-images.githubusercontent.com/82789012/225353472-0d25d432-8ceb-4447-b9fd-a5025a8db57a.png)
+![image](https://user-images.githubusercontent.com/82789012/225354230-f22e127e-8ac0-4314-8317-df5867d8d6cb.png)
 
 
 
