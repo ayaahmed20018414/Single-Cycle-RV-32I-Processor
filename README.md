@@ -41,6 +41,15 @@ simulation result of 2nd program(the Fibonacci series numbers)
 
 
 
+simulation result of 3rd program(the factorial of 8)
+![image](https://user-images.githubusercontent.com/82789012/225305745-47f66cfb-2f84-4f81-882c-845a5efbf734.png)
+
+
+
+
+
+
+
 
 
 
@@ -52,9 +61,21 @@ top level view using Quartus Prime Lite Edition
 
 
 
+![image](https://user-images.githubusercontent.com/82789012/225353081-6c40ce05-46c7-4e84-bf40-c92dac4cfef0.png)
 
 
 
 
-simulation result of 3rd program(the factorial of 8)
-![image](https://user-images.githubusercontent.com/82789012/225305745-47f66cfb-2f84-4f81-882c-845a5efbf734.png)
+![image](https://user-images.githubusercontent.com/82789012/225353472-0d25d432-8ceb-4447-b9fd-a5025a8db57a.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/82789012/225353797-d872abfd-1482-47ff-ad75-d8614793b4a2.png)
+
+
+
+
+
+
+
