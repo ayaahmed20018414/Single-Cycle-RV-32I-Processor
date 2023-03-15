@@ -38,3 +38,4 @@ simulation result of 2nd program(the Fibonacci series numbers)
 
 
 simulation result of 3rd program(the factorial of 8)
+![image](https://user-images.githubusercontent.com/82789012/225305745-47f66cfb-2f84-4f81-882c-845a5efbf734.png)
