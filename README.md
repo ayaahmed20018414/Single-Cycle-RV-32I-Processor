@@ -3,7 +3,7 @@ In this project, I implemented a 32-bit single-cycle microarchitecture RISC-V pr
 
 
 Complete single-cycle RISC-V processor implementation 
-![image](https://user-images.githubusercontent.com/82789012/225302143-bd3cde47-fb54-4188-b752-acfbfbd8377c.png)
+![image](https://user-images.githubusercontent.com/82789012/225303096-20221af7-efd8-4209-8c43-80e64da3d7d6.png)
 
 
 
